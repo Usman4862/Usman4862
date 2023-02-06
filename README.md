@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Python, HTML, CSS,**
 
-- 📫 How to reach me **um4862@gmail.com**
+- 📫 Reach me at **um4862@gmail.com**
 
-- ⚡ Fun fact **I do awkward things python and tell computer what to do.**
+- ⚡ Fun fact **I do awkward things in python and tell computers what to do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
