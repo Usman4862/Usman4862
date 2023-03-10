@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">A Experienced Python Developer from Dubai</h3>
+<h3 align="center">A Experienced Python Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman4862&label=Profile%20views&color=0e75b6&style=flat" alt="usman4862" /> </p>
 
