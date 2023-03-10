@@ -9,7 +9,7 @@
 
 - 🌱 I’m working with **Frameworks Flask, Django,**
 
-- 👨‍💻 All of my projects are available at [on github](https://github.com/Usman4862?tab=repositories)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Usman4862?tab=repositories)
 
 - 💬 Ask me about **Python,Django, Flask HTML, CSS,**
 
