@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working with **4 media Group**
 
-- 🌱 I’m currently learning **Frameworks Flask, Django, Grok**
+- 🌱 I’m working with **Frameworks Flask, Django,**
 
 - 👨‍💻 All of my projects are available at [on github](on github)
 
-- 💬 Ask me about **Python, HTML, CSS,**
+- 💬 Ask me about **Python,Django, Flask HTML, CSS,**
 
 - 📫 Reach me at **um4862@gmail.com**
 
