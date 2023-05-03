@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman4862" alt="usman4862" /></a> </p>
 
-- 🔭 I’m currently working with **4 media Group**
+- 🔭 I’m currently working with **GitLogix**
 
 - 🌱 I’m working with **Frameworks Flask, Django,**
 
